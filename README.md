@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kaick Nasc
+# 👨🏾‍💻 Kaick Nasc
 
 **`Developer Front-end`**
 
