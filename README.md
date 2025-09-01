@@ -100,14 +100,14 @@ Hello, I'm Kaick and I'm a systems analysis and development student, I'm looking
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kaicknasc&show_icons=true&theme=synthwave&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=kaicknasc&show_icons=true&theme=gruvbox&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaicknasc&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaicknasc&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
