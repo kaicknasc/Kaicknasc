@@ -50,6 +50,22 @@ Hello, I'm Kaick and I'm a systems analysis and development student, I'm looking
 />
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -66,16 +82,16 @@ Hello, I'm Kaick and I'm a systems analysis and development student, I'm looking
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Csharp" 
+    title="Csharp"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="MySql" 
+    title="MySql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
@@ -88,6 +104,7 @@ Hello, I'm Kaick and I'm a systems analysis and development student, I'm looking
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 
 <br/>
 <br/>
