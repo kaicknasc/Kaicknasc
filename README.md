@@ -132,5 +132,5 @@ Hello, I'm Kaick and I'm a systems analysis and development student, I'm looking
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaicknasc/kaicknasc/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaicknasc/kaicknasc/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaicknasc/kaicknasc/output/github-contribution-grid-snake.svg">
 </picture>
